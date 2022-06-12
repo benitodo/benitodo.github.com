@@ -11,17 +11,6 @@ links.forEach(function(links)
 );
 */
 
-let links = document.querySelectorAll(".close");
-
-links.forEach(function(link)
-{
-    link.addEventListener("click",function(evento){
-       
-
-        
-
-    })
-});
 
 let iconos = document.querySelectorAll("i");
 
